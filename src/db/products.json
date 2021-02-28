@@ -1,0 +1,60 @@
+[
+    {
+        "id" : 1,
+        "descripcion": "remera talle 1",
+        "precio": "985"
+        
+    },
+    {
+        "id" : 2,
+        "descripcion": "pantalon talle 2",
+        "precio": "2000"
+        
+    },
+    {
+        "id" : 3,
+        "descripcion": "zapatilla ",
+        "precio": "2000"
+        
+    },
+      
+    {
+        "id" : 4,
+        "descripcion": "buzo niño",
+        "precio": "1000"
+        
+    },
+    
+    {
+        "id" : 5,
+        "descripcion": "buzo adulto",
+        "precio": "1400"
+        
+    },
+    {
+        "id" : 6,
+        "descripcion": "remera mujer",
+        "precio": "987"
+        
+    },
+    {
+        "id" : 7,
+        "descripcion": "pantalon chupin",
+        "precio": "1300"
+        
+    },
+    {
+        "id" : 8,
+        "descripcion": "short niño",
+        "precio": "800"
+        
+    },
+    {
+        "id" : 9,
+        "descripcion": "calza negra",
+        "precio": "900"
+        
+    }
+
+
+]

@@ -1,0 +1,15 @@
+body {
+    background: #eee;
+  }
+  
+  .containerListado {
+    background: white;
+    height: 75vh;
+    overflow-x: auto;
+    overflow-y: scroll;
+    padding: 1em;
+  }
+  
+  .inputInteger{
+    width:50px;
+}
